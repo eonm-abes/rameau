@@ -1,6 +1,8 @@
 <div align="center">
 
-# RAMEAU-XSLT
+# RAMEAU
+
+[![Tests](https://github.com/eonm-abes/rameau/actions/workflows/tests.yml/badge.svg)](https://github.com/eonm-abes/rameau/actions/workflows/tests.yml)
 
 </div>
 
