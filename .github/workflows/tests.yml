@@ -19,5 +19,5 @@ jobs:
           make install-xspec
       - name: Run tests
         run: |
-          make test
           export SAXON_CP=/tmp/saxon/saxon9he.jar
+          make test
