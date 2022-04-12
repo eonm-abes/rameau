@@ -1,0 +1,238 @@
+<record>
+  <leader>     cam0 22        450 </leader>
+  <controlfield tag="001">055600778</controlfield>
+  <controlfield tag="002">15,39,41,74</controlfield>
+  <controlfield tag="003">http://www.sudoc.fr/055600778</controlfield>
+  <controlfield tag="004">20010419</controlfield>
+  <controlfield tag="005">20200124035914.000</controlfield>
+  <controlfield tag="006">9999</controlfield>
+  <controlfield tag="007">1999</controlfield>
+  <controlfield tag="008">Aax3</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)490607153</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">sib1744135</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20010419d1924    m  y0frey50      ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1="0" ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">GB</subfield>
+  </datafield>
+  <datafield tag="105" ind1=" " ind2=" ">
+    <subfield code="a">y   z   000zd</subfield>
+  </datafield>
+  <datafield tag="106" ind1=" " ind2=" ">
+    <subfield code="a">r</subfield>
+  </datafield>
+  <datafield tag="181" ind1=" " ind2=" ">
+    <subfield code="6">z01</subfield>
+    <subfield code="c">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="181" ind1=" " ind2="1">
+    <subfield code="6">z01</subfield>
+    <subfield code="a">i#</subfield>
+    <subfield code="b">xxxe##</subfield>
+  </datafield>
+  <datafield tag="182" ind1=" " ind2=" ">
+    <subfield code="6">z01</subfield>
+    <subfield code="c">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="182" ind1=" " ind2="1">
+    <subfield code="6">z01</subfield>
+    <subfield code="a">n</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Memoir of Fleeming Jenkin</subfield>
+    <subfield code="a">Records of a family of engineers</subfield>
+    <subfield code="f">by Robert Louis Stevenson</subfield>
+  </datafield>
+  <datafield tag="205" ind1=" " ind2=" ">
+    <subfield code="a">Tusitala edition</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">London</subfield>
+    <subfield code="c">W. Heinemann</subfield>
+    <subfield code="c">Chatto &amp; Windus</subfield>
+    <subfield code="c">Cassell, [etc.]</subfield>
+    <subfield code="d">1924</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">VI-330 p.</subfield>
+    <subfield code="d">17 cm</subfield>
+  </datafield>
+  <datafield tag="225" ind1="1" ind2=" ">
+    <subfield code="a">The works of Robert Louis Stevenson</subfield>
+    <subfield code="v">19</subfield>
+  </datafield>
+  <datafield tag="303" ind1=" " ind2=" ">
+    <subfield code="a">Tusitala, surnom polynésien de R. L. Stevenson, veut dire &quot;conteur d&apos;histoires&quot;</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="|">
+    <subfield code="t">Records of a family of engineers</subfield>
+  </datafield>
+  <datafield tag="461" ind1=" " ind2="|">
+    <subfield code="t">The works of Robert Louis Stevenson. Vol. XIX</subfield>
+  </datafield>
+  <datafield tag="600" ind1=" " ind2="1">
+    <subfield code="3">050656996</subfield>
+    <subfield code="a">Jenkin</subfield>
+    <subfield code="b">Henry Charles Fleeming</subfield>
+    <subfield code="f">1833-1885</subfield>
+    <subfield code="2">rameau</subfield>
+  </datafield>
+  <datafield tag="600" ind1=" " ind2="1">
+    <subfield code="3">128196718</subfield>
+    <subfield code="a">Stevenson</subfield>
+    <subfield code="b">Robert</subfield>
+    <subfield code="f">1772-1850</subfield>
+    <subfield code="2">rameau</subfield>
+  </datafield>
+  <datafield tag="602" ind1=" " ind2=" ">
+    <subfield code="3">128198869</subfield>
+    <subfield code="a">Stevenson</subfield>
+    <subfield code="c">famille</subfield>
+    <subfield code="d">Ecosse</subfield>
+    <subfield code="f">1772-....</subfield>
+    <subfield code="2">rameau</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="3">027149102</subfield>
+    <subfield code="a">Stevenson</subfield>
+    <subfield code="b">Robert Louis</subfield>
+    <subfield code="f">1850-1894</subfield>
+    <subfield code="4">070</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Abes</subfield>
+    <subfield code="c">20200124</subfield>
+    <subfield code="g">AFNOR</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">SF</subfield>
+    <subfield code="c">20010501</subfield>
+  </datafield>
+  <datafield tag="915" ind1=" " ind2=" ">
+    <subfield code="5">335222103:30903292X</subfield>
+    <subfield code="a">1</subfield>
+    <subfield code="b">0BXL9009683</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">335222103:30903292X</subfield>
+    <subfield code="b">335222103</subfield>
+    <subfield code="c">3MAG9</subfield>
+    <subfield code="j">u</subfield>
+  </datafield>
+  <datafield tag="931" ind1=" " ind2=" ">
+    <subfield code="5">335222103:30903292X</subfield>
+    <subfield code="b">335222103</subfield>
+    <subfield code="a">IL 56149-19</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">335222103:30903292X</subfield>
+    <subfield code="a">20070615</subfield>
+    <subfield code="b">x</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">335222103:30903292X</subfield>
+    <subfield code="a">20120903</subfield>
+    <subfield code="b">22:16:57.000</subfield>
+  </datafield>
+  <datafield tag="991" ind1=" " ind2=" ">
+    <subfield code="5">335222103:30903292X</subfield>
+    <subfield code="a">JOUVE-46-RETRO-LOC-05-60-001</subfield>
+    <subfield code="b">BC010150-20070615-16A_0027_00495_01</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">693872103:394244338</subfield>
+    <subfield code="b">693872103</subfield>
+    <subfield code="j">u</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">693872103:394244338</subfield>
+    <subfield code="a">20100408</subfield>
+    <subfield code="b">x</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">693872103:394244338</subfield>
+    <subfield code="a">20100408</subfield>
+    <subfield code="b">16:11:59.000</subfield>
+  </datafield>
+  <datafield tag="991" ind1=" " ind2=" ">
+    <subfield code="5">693872103:394244338</subfield>
+    <subfield code="a">2010 localisation automatique</subfield>
+    <subfield code="b">BU Chevreul</subfield>
+  </datafield>
+  <datafield tag="991" ind1=" " ind2=" ">
+    <subfield code="5">693872103:394244338</subfield>
+    <subfield code="a">exemplaire créé automatiquement par l&apos;ABES</subfield>
+  </datafield>
+  <datafield tag="915" ind1=" " ind2=" ">
+    <subfield code="5">693872101:388268174</subfield>
+    <subfield code="b">308469</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">693872101:388268174</subfield>
+    <subfield code="b">693872101</subfield>
+    <subfield code="a">B4 10277</subfield>
+    <subfield code="j">g</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">693872101:388268174</subfield>
+    <subfield code="a">20100211</subfield>
+    <subfield code="b">x</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">693872101:388268174</subfield>
+    <subfield code="a">20121008</subfield>
+    <subfield code="b">11:51:32.000</subfield>
+  </datafield>
+  <datafield tag="915" ind1=" " ind2=" ">
+    <subfield code="5">751052102:139037578</subfield>
+    <subfield code="a">751062204a/e 988-19</subfield>
+  </datafield>
+  <datafield tag="917" ind1=" " ind2=" ">
+    <subfield code="5">751052102:139037578</subfield>
+    <subfield code="a">aaxx</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">751052102:139037578</subfield>
+    <subfield code="b">751052102</subfield>
+    <subfield code="d">mu</subfield>
+    <subfield code="a">820-STE-MEM</subfield>
+    <subfield code="j">u</subfield>
+    <subfield code="2">dewey</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">751052102:139037578</subfield>
+    <subfield code="a">20010419</subfield>
+    <subfield code="b">x</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">751052102:139037578</subfield>
+    <subfield code="a">20210702</subfield>
+    <subfield code="b">04:15:03.000</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="5">751052102:139037578</subfield>
+    <subfield code="a">MG-16-693</subfield>
+    <subfield code="b">751062204mu</subfield>
+    <subfield code="d">1</subfield>
+    <subfield code="e">1</subfield>
+    <subfield code="1">dew-pg</subfield>
+    <subfield code="c">820-STE-MEM</subfield>
+    <subfield code="x">751062204a/e 988-19</subfield>
+    <subfield code="z">sf-ca-c</subfield>
+    <subfield code="5">19.04.2001/752102/r11</subfield>
+  </datafield>
+</record>
+  
+  

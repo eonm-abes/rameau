@@ -1,0 +1,346 @@
+<record>
+  <leader>     cam0 22      n 450 </leader>
+  <controlfield tag="001">028719646</controlfield>
+  <controlfield tag="002">35,62,90,91,96,97,402,423</controlfield>
+  <controlfield tag="003">http://www.sudoc.fr/028719646</controlfield>
+  <controlfield tag="004">19860111</controlfield>
+  <controlfield tag="005">20200226030659.000</controlfield>
+  <controlfield tag="006">0002</controlfield>
+  <controlfield tag="007">1999</controlfield>
+  <controlfield tag="008">Aax1</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">US</subfield>
+    <subfield code="b">0322393</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)13011802</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocm13011802</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19860111d1873    u  y0engy50      ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1="0" ind2=" ">
+    <subfield code="a">fre</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">FR</subfield>
+  </datafield>
+  <datafield tag="105" ind1=" " ind2=" ">
+    <subfield code="a">acef#   000|y</subfield>
+  </datafield>
+  <datafield tag="181" ind1=" " ind2=" ">
+    <subfield code="6">z01</subfield>
+    <subfield code="c">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="181" ind1=" " ind2="1">
+    <subfield code="6">z01</subfield>
+    <subfield code="a">i#</subfield>
+    <subfield code="b">xxxe##</subfield>
+  </datafield>
+  <datafield tag="182" ind1=" " ind2=" ">
+    <subfield code="6">z01</subfield>
+    <subfield code="c">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="182" ind1=" " ind2="1">
+    <subfield code="6">z01</subfield>
+    <subfield code="a">n</subfield>
+  </datafield>
+  <datafield tag="200" ind1="0" ind2=" ">
+    <subfield code="a">La première bibliothèque de l&apos;Hôtel de Ville de Paris (1760-1797)</subfield>
+    <subfield code="e">Avec les preuves extraites des archives nationales et des papiers de la ville</subfield>
+    <subfield code="f">par L.M. Tisserand, chef du Bureau des beaux arts et des travaux historiques à la Préfecture de la Seine</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Paris</subfield>
+    <subfield code="c">Imprimerie nationale</subfield>
+    <subfield code="d">1873</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">2 p. ß., xii, 128 p.</subfield>
+    <subfield code="c">illus., 3 pl. (ports.) plan.</subfield>
+    <subfield code="d">35 cm</subfield>
+  </datafield>
+  <datafield tag="225" ind1="0" ind2=" ">
+    <subfield code="a">Histoire générale de Paris</subfield>
+    <subfield code="i">Collection de documents publiée sous les auspices de l&apos;édilité parisienne</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Cet ouvrage ne présente pas la mention de collection en haut de la page de titre</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Written in 1869. First printed, without the &quot;Avant propos&quot; and special index, in Alfred Franklin&apos;s Les anciennes bibliothèques de Paris, t. 3, 1873, p. 181-300, in which three plates (portraits of Turgot, Nicolas de Livry and other founders) are usually absent, the number of impressions taken having proved insufficient to supply both issues. In the &quot;Avant propos&quot; the destruction of the library during the Commune, May 24, 1871, is referred to; no mention is made of this, by note or otherwise, in the earlier issue, and though the volume containing it has the imprint date 1873, that part of it seems to have been printed before 1871</subfield>
+  </datafield>
+  <datafield tag="316" ind1=" " ind2=" ">
+    <subfield code="5">930012301:231765592</subfield>
+    <subfield code="a">Actuellement indisponible à la consultation (14/06/2006)</subfield>
+  </datafield>
+  <datafield tag="317" ind1=" " ind2=" ">
+    <subfield code="5">674821001:387922946</subfield>
+    <subfield code="a">Achat, n°2679</subfield>
+  </datafield>
+  <datafield tag="601" ind1="0" ind2="1">
+    <subfield code="3">112701116</subfield>
+    <subfield code="a">Bibliothèque de la ville de Paris</subfield>
+    <subfield code="f">1760-1797</subfield>
+    <subfield code="2">rameau</subfield>
+  </datafield>
+  <datafield tag="606" ind1=" " ind2=" ">
+    <subfield code="1">423</subfield>
+    <subfield code="a">H-J. Histoire de France</subfield>
+    <subfield code="x">H IX. Histoire des villes, bourgs et châteaux</subfield>
+    <subfield code="2">Classification de la Bibliothèque des Archives nationales</subfield>
+  </datafield>
+  <datafield tag="680" ind1=" " ind2=" ">
+    <subfield code="a">DC702</subfield>
+    <subfield code="b">.H67</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="3">034275495</subfield>
+    <subfield code="a">Tisserand</subfield>
+    <subfield code="b">Lazare-Maurice</subfield>
+    <subfield code="f">1822-1893</subfield>
+    <subfield code="4">070</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Abes</subfield>
+    <subfield code="c">20200226</subfield>
+    <subfield code="g">AFNOR</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="1">
+    <subfield code="a">US</subfield>
+    <subfield code="b">OCLC</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="2">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">AUROC</subfield>
+  </datafield>
+  <datafield tag="915" ind1=" " ind2=" ">
+    <subfield code="5">590092101:19194727X</subfield>
+    <subfield code="a">41.069-6</subfield>
+    <subfield code="b">0216236618</subfield>
+  </datafield>
+  <datafield tag="917" ind1=" " ind2=" ">
+    <subfield code="5">590092101:19194727X</subfield>
+    <subfield code="a">abbx</subfield>
+  </datafield>
+  <datafield tag="919" ind1=" " ind2=" ">
+    <subfield code="5">590092101:19194727X</subfield>
+    <subfield code="a">481692</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">590092101:19194727X</subfield>
+    <subfield code="b">590092101</subfield>
+    <subfield code="a">41.069-6</subfield>
+    <subfield code="j">g</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">590092101:19194727X</subfield>
+    <subfield code="a">20090706</subfield>
+    <subfield code="b">x</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">590092101:19194727X</subfield>
+    <subfield code="a">20090709</subfield>
+    <subfield code="b">14:01:36.000</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="5">590092101:19194727X</subfield>
+    <subfield code="a">0EXC</subfield>
+    <subfield code="b">0MAGEX</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">674821001:387922946</subfield>
+    <subfield code="b">674821001</subfield>
+    <subfield code="d">CSTOU</subfield>
+    <subfield code="a">D.671</subfield>
+    <subfield code="j">s</subfield>
+  </datafield>
+  <datafield tag="931" ind1=" " ind2=" ">
+    <subfield code="5">674821001:387922946</subfield>
+    <subfield code="b">674821001</subfield>
+    <subfield code="a">Do.IIIf</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">674821001:387922946</subfield>
+    <subfield code="a">20100210</subfield>
+    <subfield code="b">x</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">674821001:387922946</subfield>
+    <subfield code="a">20150309</subfield>
+    <subfield code="b">20:39:38.000</subfield>
+  </datafield>
+  <datafield tag="991" ind1=" " ind2=" ">
+    <subfield code="5">674821001:387922946</subfield>
+    <subfield code="a">REGISTRES.NOIRS-RETRO-LOC</subfield>
+    <subfield code="b">BNU</subfield>
+    <subfield code="b">2010-03</subfield>
+    <subfield code="b">0402783</subfield>
+    <subfield code="b">REVU</subfield>
+  </datafield>
+  <datafield tag="917" ind1=" " ind2=" ">
+    <subfield code="5">751025206:057425795</subfield>
+    <subfield code="a">uubu</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">751025206:057425795</subfield>
+    <subfield code="b">751025206</subfield>
+    <subfield code="e">FIAA</subfield>
+    <subfield code="a">4 I 81 (7)</subfield>
+    <subfield code="j">g</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">751025206:057425795</subfield>
+    <subfield code="a">20000316</subfield>
+    <subfield code="b">z</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">751025206:057425795</subfield>
+    <subfield code="a">20160224</subfield>
+    <subfield code="b">21:48:08.000</subfield>
+  </datafield>
+  <datafield tag="917" ind1=" " ind2=" ">
+    <subfield code="5">751062103:328838810</subfield>
+    <subfield code="a">abbd</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">751062103:328838810</subfield>
+    <subfield code="b">751062103</subfield>
+    <subfield code="c">MAGASIN</subfield>
+    <subfield code="a">1947</subfield>
+    <subfield code="j">s</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">751062103:328838810</subfield>
+    <subfield code="a">20080222</subfield>
+    <subfield code="b">x</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">751062103:328838810</subfield>
+    <subfield code="a">20120611</subfield>
+    <subfield code="b">09:45:08.000</subfield>
+  </datafield>
+  <datafield tag="991" ind1=" " ind2=" ">
+    <subfield code="5">751062103:328838810</subfield>
+    <subfield code="a">JOUVE-45-RETRO-LOC-05-60-001</subfield>
+    <subfield code="b">BC017298-20080222-05A_3106_00448_01</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="5">751062103:328838810</subfield>
+    <subfield code="a">1MONM</subfield>
+    <subfield code="b">1MONM</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">751063001:503641855</subfield>
+    <subfield code="b">751063001</subfield>
+    <subfield code="a">Fol X 210 C* [26] Usuel Histoire de France Ph 03</subfield>
+    <subfield code="j">g</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">751063001:503641855</subfield>
+    <subfield code="a">20140409</subfield>
+    <subfield code="b">x</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">751063001:503641855</subfield>
+    <subfield code="a">20140409</subfield>
+    <subfield code="b">12:53:38.000</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">751063002:626959551</subfield>
+    <subfield code="b">751063002</subfield>
+    <subfield code="a">2° 6943-11</subfield>
+    <subfield code="j">g</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">751063002:626959551</subfield>
+    <subfield code="a">20190124</subfield>
+    <subfield code="b">x</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">751063002:626959551</subfield>
+    <subfield code="a">20190124</subfield>
+    <subfield code="b">13:57:32.000</subfield>
+  </datafield>
+  <datafield tag="915" ind1=" " ind2=" ">
+    <subfield code="5">930012301:231765592</subfield>
+    <subfield code="a">En</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">930012301:231765592</subfield>
+    <subfield code="b">930012301</subfield>
+    <subfield code="a">51 Su 22</subfield>
+    <subfield code="j">g</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">930012301:231765592</subfield>
+    <subfield code="a">20050519</subfield>
+    <subfield code="b">x</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">930012301:231765592</subfield>
+    <subfield code="a">20190828</subfield>
+    <subfield code="b">03:16:56.000</subfield>
+  </datafield>
+  <datafield tag="991" ind1=" " ind2=" ">
+    <subfield code="5">930012301:231765592</subfield>
+    <subfield code="a">SAFIG-E</subfield>
+    <subfield code="b">751052333r3A25</subfield>
+    <subfield code="c">Exemplaire créé automatiquement par l&apos;ABES</subfield>
+  </datafield>
+  <datafield tag="992" ind1=" " ind2=" ">
+    <subfield code="5">930012301:231765592</subfield>
+    <subfield code="a">02</subfield>
+    <subfield code="2">dombulac</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="5">930012301:231765592</subfield>
+    <subfield code="m">101</subfield>
+    <subfield code="n">eh000</subfield>
+  </datafield>
+  <datafield tag="917" ind1=" " ind2=" ">
+    <subfield code="5">751035106:623559021</subfield>
+    <subfield code="a">abba</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">751035106:623559021</subfield>
+    <subfield code="b">751035106</subfield>
+    <subfield code="c">Magasin Bret. 1</subfield>
+    <subfield code="e">Fonds général</subfield>
+    <subfield code="a">F° US 721 (29)</subfield>
+    <subfield code="j">g</subfield>
+  </datafield>
+  <datafield tag="931" ind1=" " ind2=" ">
+    <subfield code="5">751035106:623559021</subfield>
+    <subfield code="b">751035106</subfield>
+    <subfield code="e">Fonds général</subfield>
+    <subfield code="a">F° US 463 (4 bis)</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">751035106:623559021</subfield>
+    <subfield code="a">20181116</subfield>
+    <subfield code="b">r</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">751035106:623559021</subfield>
+    <subfield code="a">20181116</subfield>
+    <subfield code="b">07:58:54.000</subfield>
+  </datafield>
+  <datafield tag="991" ind1=" " ind2=" ">
+    <subfield code="5">751035106:623559021</subfield>
+    <subfield code="a">RETRO-2017-JOUVE-31-LOC-BHG</subfield>
+    <subfield code="b">1000113656-20181116-BHG_0116_00241_01</subfield>
+  </datafield>
+  <datafield tag="992" ind1=" " ind2=" ">
+    <subfield code="5">751035106:623559021</subfield>
+    <subfield code="a">H IX 154 (4)</subfield>
+    <subfield code="2">Classification de la Bibliothèque des Archives nationales</subfield>
+  </datafield>
+</record>
+  
+  

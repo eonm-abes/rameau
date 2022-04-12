@@ -1,0 +1,210 @@
+<record>
+  <leader>     cam0 22        450 </leader>
+  <controlfield tag="001">047297964</controlfield>
+  <controlfield tag="002">54,56,170</controlfield>
+  <controlfield tag="003">http://www.sudoc.fr/047297964</controlfield>
+  <controlfield tag="004">19990614</controlfield>
+  <controlfield tag="005">20200226043654.000</controlfield>
+  <controlfield tag="006">9999</controlfield>
+  <controlfield tag="007">1999</controlfield>
+  <controlfield tag="008">Aax3</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)490569991</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">sib1384870</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="1">54</subfield>
+    <subfield code="a">alp230333</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990614d1946    ||||0frey50      ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1="0" ind2=" ">
+    <subfield code="a">fre</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">FR</subfield>
+  </datafield>
+  <datafield tag="105" ind1=" " ind2=" ">
+    <subfield code="a">y   |||||||||</subfield>
+  </datafield>
+  <datafield tag="181" ind1=" " ind2=" ">
+    <subfield code="6">z01</subfield>
+    <subfield code="c">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="181" ind1=" " ind2="1">
+    <subfield code="6">z01</subfield>
+    <subfield code="a">i#</subfield>
+    <subfield code="b">xxxe##</subfield>
+  </datafield>
+  <datafield tag="182" ind1=" " ind2=" ">
+    <subfield code="6">z01</subfield>
+    <subfield code="c">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="182" ind1=" " ind2="1">
+    <subfield code="6">z01</subfield>
+    <subfield code="a">n</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">La cour des Valois</subfield>
+    <subfield code="f">Robert Burnand</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Paris</subfield>
+    <subfield code="c">Hachette</subfield>
+    <subfield code="d">impr. 1946</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">1 vol. (256 p.)</subfield>
+    <subfield code="d">18 cm</subfield>
+  </datafield>
+  <datafield tag="225" ind1=" " ind2=" ">
+    <subfield code="a">De l&apos;histoire</subfield>
+  </datafield>
+  <datafield tag="410" ind1=" " ind2="|">
+    <subfield code="0">048111635</subfield>
+    <subfield code="t">De l&apos;histoire</subfield>
+    <subfield code="x">2497-3009</subfield>
+  </datafield>
+  <datafield tag="579" ind1=" " ind2=" ">
+    <subfield code="1">0499</subfield>
+    <subfield code="3">211450855</subfield>
+  </datafield>
+  <datafield tag="602" ind1=" " ind2=" ">
+    <subfield code="3">029078199</subfield>
+    <subfield code="a">Valois</subfield>
+    <subfield code="c">maison</subfield>
+    <subfield code="2">rameau</subfield>
+  </datafield>
+  <datafield tag="606" ind1=" " ind2=" ">
+    <subfield code="3">028236491</subfield>
+    <subfield code="a">Rois et souverains</subfield>
+    <subfield code="y">France</subfield>
+    <subfield code="2">rameau</subfield>
+  </datafield>
+  <datafield tag="606" ind1=" " ind2=" ">
+    <subfield code="3">028907035</subfield>
+    <subfield code="a">Politique et gouvernement</subfield>
+    <subfield code="y">France</subfield>
+    <subfield code="z">16e siècle</subfield>
+    <subfield code="2">rameau</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="3">060890630</subfield>
+    <subfield code="a">Burnand</subfield>
+    <subfield code="b">Robert</subfield>
+    <subfield code="f">1882-1953</subfield>
+    <subfield code="4">070</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Abes</subfield>
+    <subfield code="c">20200226</subfield>
+    <subfield code="g">AFNOR</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">SF</subfield>
+    <subfield code="c">19000120</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2=" ">
+    <subfield code="a">ABES NE PAS SUPPRIMER Réforme Rameau Tg préconstruites avec subd. aux lieux 2019-06-14</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">644452101:265082471</subfield>
+    <subfield code="b">644452101</subfield>
+    <subfield code="a">UL 31287</subfield>
+    <subfield code="j">u</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">644452101:265082471</subfield>
+    <subfield code="a">20060403</subfield>
+    <subfield code="b">x</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">644452101:265082471</subfield>
+    <subfield code="a">20151104</subfield>
+    <subfield code="b">10:24:19.000</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">644452101:540481041</subfield>
+    <subfield code="b">644452101</subfield>
+    <subfield code="j">u</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">644452101:540481041</subfield>
+    <subfield code="a">20151030</subfield>
+    <subfield code="b">x</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">644452101:540481041</subfield>
+    <subfield code="a">20200213</subfield>
+    <subfield code="b">13:48:41.000</subfield>
+  </datafield>
+  <datafield tag="915" ind1=" " ind2=" ">
+    <subfield code="5">861942101:107951118</subfield>
+    <subfield code="a">861942101r2/</subfield>
+  </datafield>
+  <datafield tag="917" ind1=" " ind2=" ">
+    <subfield code="5">861942101:107951118</subfield>
+    <subfield code="a">aaxx</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">861942101:107951118</subfield>
+    <subfield code="b">861942101</subfield>
+    <subfield code="d">dl</subfield>
+    <subfield code="a">DL 54064</subfield>
+    <subfield code="j">u</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">861942101:107951118</subfield>
+    <subfield code="a">19990614</subfield>
+    <subfield code="b">x</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">861942101:107951118</subfield>
+    <subfield code="a">20000413</subfield>
+    <subfield code="b">22:47:52.000</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="5">861942101:107951118</subfield>
+    <subfield code="a">DL 54064</subfield>
+    <subfield code="b">861942101dl</subfield>
+    <subfield code="d">1</subfield>
+    <subfield code="e">1</subfield>
+    <subfield code="x">861942101r2</subfield>
+    <subfield code="z">ac-ol-c</subfield>
+    <subfield code="5">14.06.1999/862101/ra8</subfield>
+  </datafield>
+  <datafield tag="915" ind1=" " ind2=" ">
+    <subfield code="5">620412210:322745462</subfield>
+    <subfield code="b">000000376800</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">620412210:322745462</subfield>
+    <subfield code="b">620412210</subfield>
+    <subfield code="a">MAG D 92 019</subfield>
+    <subfield code="j">s</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">620412210:322745462</subfield>
+    <subfield code="a">20071210</subfield>
+    <subfield code="b">x</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">620412210:322745462</subfield>
+    <subfield code="a">20180703</subfield>
+    <subfield code="b">11:11:40.000</subfield>
+  </datafield>
+  <datafield tag="991" ind1=" " ind2=" ">
+    <subfield code="5">620412210:322745462</subfield>
+    <subfield code="a">Rétroconversion 2008</subfield>
+    <subfield code="b">Médiathèque Recherche - CP</subfield>
+  </datafield>
+</record>
+  
+  

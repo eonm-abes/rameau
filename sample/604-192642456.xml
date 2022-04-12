@@ -1,0 +1,213 @@
+<record>
+  <leader>     cam0 22        450 </leader>
+  <controlfield tag="001">192642456</controlfield>
+  <controlfield tag="002">86</controlfield>
+  <controlfield tag="003">http://www.sudoc.fr/192642456</controlfield>
+  <controlfield tag="004">20160418</controlfield>
+  <controlfield tag="005">20191106103711.000</controlfield>
+  <controlfield tag="006">751052105</controlfield>
+  <controlfield tag="007">751059917</controlfield>
+  <controlfield tag="008">Aax3</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">978-0-19-928623-2</subfield>
+    <subfield code="b">rel.</subfield>
+  </datafield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">0-19-928623-X</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">US</subfield>
+    <subfield code="b">2015930645</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)946877508</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">ocn907936530</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">AU@000054683530</subfield>
+  </datafield>
+  <datafield tag="073" ind1=" " ind2="0">
+    <subfield code="a">9780199286232</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20160418h20152015k  y0frey50      ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1="1" ind2=" ">
+    <subfield code="a">eng</subfield>
+    <subfield code="c">grc</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">GB</subfield>
+  </datafield>
+  <datafield tag="105" ind1=" " ind2=" ">
+    <subfield code="a">b   a   000by</subfield>
+  </datafield>
+  <datafield tag="106" ind1=" " ind2=" ">
+    <subfield code="a">r</subfield>
+  </datafield>
+  <datafield tag="181" ind1=" " ind2=" ">
+    <subfield code="6">z01</subfield>
+    <subfield code="c">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="181" ind1=" " ind2="1">
+    <subfield code="6">z01</subfield>
+    <subfield code="a">i#</subfield>
+    <subfield code="b">xxxe##</subfield>
+  </datafield>
+  <datafield tag="182" ind1=" " ind2=" ">
+    <subfield code="6">z01</subfield>
+    <subfield code="c">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="182" ind1=" " ind2="1">
+    <subfield code="6">z01</subfield>
+    <subfield code="a">n</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Sophocles</subfield>
+    <subfield code="e">four tragedies</subfield>
+    <subfield code="e">Oedipus the King, Aias, Philoctetes, Oedipus at Colonus</subfield>
+    <subfield code="f">a new verse translation by Oliver Taplin</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Oxford, United Kingdom</subfield>
+    <subfield code="c">Oxford University Press</subfield>
+    <subfield code="d">2015</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">1 vol. (XXXVI-341 p.)</subfield>
+    <subfield code="c">cartes</subfield>
+    <subfield code="d">23 cm</subfield>
+  </datafield>
+  <datafield tag="319" ind1=" " ind2=" ">
+    <subfield code="5">751052105:552891800</subfield>
+    <subfield code="a">Cote et disponibilité : http://catalogue.bibliotheque.sorbonne.fr</subfield>
+  </datafield>
+  <datafield tag="320" ind1=" " ind2=" ">
+    <subfield code="a">Bibliogr. p. XXIV-XXXVI</subfield>
+  </datafield>
+  <datafield tag="456" ind1=" " ind2="|">
+    <subfield code="0">235524069</subfield>
+    <subfield code="t">Four Tragedies</subfield>
+    <subfield code="o">Oedipus the King, Aias, Philoctetes, Oedipus at Colonus</subfield>
+    <subfield code="f">Sophocle</subfield>
+    <subfield code="c">[Oxford]</subfield>
+    <subfield code="n">Oxford University Press</subfield>
+    <subfield code="d">2017</subfield>
+    <subfield code="y">978-0-19-184988-6</subfield>
+  </datafield>
+  <datafield tag="600" ind1=" " ind2="0">
+    <subfield code="a">Oedipus</subfield>
+    <subfield code="c">(Greek mythological figure)</subfield>
+    <subfield code="2">lc</subfield>
+  </datafield>
+  <datafield tag="600" ind1=" " ind2="0">
+    <subfield code="a">Ajax</subfield>
+    <subfield code="c">(Greek mythological figure)</subfield>
+    <subfield code="2">lc</subfield>
+  </datafield>
+  <datafield tag="600" ind1=" " ind2="0">
+    <subfield code="a">Philoctetes</subfield>
+    <subfield code="c">(Mythological character)</subfield>
+    <subfield code="2">lc</subfield>
+  </datafield>
+  <datafield tag="604" ind1=" " ind2=" ">
+    <subfield code="3">027515486</subfield>
+    <subfield code="a">Sophocle (0496?-0406 av. J.-C.)</subfield>
+    <subfield code="t">Oedipe roi</subfield>
+    <subfield code="2">rameau</subfield>
+  </datafield>
+  <datafield tag="604" ind1=" " ind2=" ">
+    <subfield code="3">029869390</subfield>
+    <subfield code="a">Sophocle (0496?-0406 av. J.-C.)</subfield>
+    <subfield code="t">Ajax</subfield>
+    <subfield code="2">rameau</subfield>
+  </datafield>
+  <datafield tag="604" ind1=" " ind2=" ">
+    <subfield code="3">029195462</subfield>
+    <subfield code="a">Sophocle (0496?-0406 av. J.-C.)</subfield>
+    <subfield code="t">Philoctète</subfield>
+    <subfield code="2">rameau</subfield>
+  </datafield>
+  <datafield tag="604" ind1=" " ind2=" ">
+    <subfield code="3">028020294</subfield>
+    <subfield code="a">Sophocle (0496?-0406 av. J.-C.)</subfield>
+    <subfield code="t">Oedipe à Colone</subfield>
+    <subfield code="2">rameau</subfield>
+  </datafield>
+  <datafield tag="606" ind1=" " ind2=" ">
+    <subfield code="3">027796019</subfield>
+    <subfield code="a">Tragédie grecque</subfield>
+    <subfield code="2">rameau</subfield>
+  </datafield>
+  <datafield tag="606" ind1=" " ind2=" ">
+    <subfield code="a">Mythology, Greek</subfield>
+    <subfield code="x">Drama</subfield>
+    <subfield code="2">lc</subfield>
+  </datafield>
+  <datafield tag="660" ind1=" " ind2=" ">
+    <subfield code="a">e-gr---</subfield>
+  </datafield>
+  <datafield tag="676" ind1=" " ind2=" ">
+    <subfield code="a">882/.01</subfield>
+    <subfield code="v">23</subfield>
+  </datafield>
+  <datafield tag="680" ind1=" " ind2=" ">
+    <subfield code="a">PA4414.A2</subfield>
+    <subfield code="b">T35 2015</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="3">027143619</subfield>
+    <subfield code="a">Sophocle</subfield>
+    <subfield code="f">0496?-0406 av. J.-C.</subfield>
+    <subfield code="4">070</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="3">03045980X</subfield>
+    <subfield code="a">Taplin</subfield>
+    <subfield code="b">Oliver</subfield>
+    <subfield code="4">730</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Abes</subfield>
+    <subfield code="c">20191106</subfield>
+    <subfield code="g">AFNOR</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="0">
+    <subfield code="b">AU@</subfield>
+    <subfield code="g">AACR2</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="2">
+    <subfield code="b">OCLCO</subfield>
+    <subfield code="g">AACR2</subfield>
+  </datafield>
+  <datafield tag="915" ind1=" " ind2=" ">
+    <subfield code="5">751052105:552891800</subfield>
+    <subfield code="a">a/875666</subfield>
+    <subfield code="b">1158170972</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">751052105:552891800</subfield>
+    <subfield code="b">751052105</subfield>
+    <subfield code="j">u</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">751052105:552891800</subfield>
+    <subfield code="a">20160418</subfield>
+    <subfield code="b">x</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">751052105:552891800</subfield>
+    <subfield code="a">20160418</subfield>
+    <subfield code="b">14:08:51.000</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="5">751052105:552891800</subfield>
+    <subfield code="a">ci</subfield>
+  </datafield>
+</record>
+  

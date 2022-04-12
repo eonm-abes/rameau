@@ -1,0 +1,205 @@
+<record>
+  <leader>     cgm0 22        450 </leader>
+  <controlfield tag="001">15776639X</controlfield>
+  <controlfield tag="002">24</controlfield>
+  <controlfield tag="003">http://www.sudoc.fr/15776639X</controlfield>
+  <controlfield tag="004">20120118</controlfield>
+  <controlfield tag="005">20190201034244.000</controlfield>
+  <controlfield tag="006">890242202</controlfield>
+  <controlfield tag="007">1999</controlfield>
+  <controlfield tag="008">Bax3</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)800753564</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="1">24</subfield>
+    <subfield code="a">662611</subfield>
+  </datafield>
+  <datafield tag="071" ind1="4" ind2="1">
+    <subfield code="a">MC106-D</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20120118d2011    |||||frey50      ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1="0" ind2=" ">
+    <subfield code="a">fre</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">FR</subfield>
+  </datafield>
+  <datafield tag="105" ind1=" " ind2=" ">
+    <subfield code="a">y   |||||||||</subfield>
+  </datafield>
+  <datafield tag="115" ind1=" " ind2=" ">
+    <subfield code="a">c|||bag|||a|||||gc||</subfield>
+    <subfield code="b">|||||||||001300</subfield>
+  </datafield>
+  <datafield tag="181" ind1=" " ind2=" ">
+    <subfield code="6">z01</subfield>
+    <subfield code="c">tdi</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="181" ind1=" " ind2="1">
+    <subfield code="6">z01</subfield>
+    <subfield code="a">b#</subfield>
+    <subfield code="b">xa2e##</subfield>
+  </datafield>
+  <datafield tag="182" ind1=" " ind2=" ">
+    <subfield code="6">z01</subfield>
+    <subfield code="c">v</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="182" ind1=" " ind2="1">
+    <subfield code="6">z01</subfield>
+    <subfield code="a">g</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Une séance d&apos;histoire au cycle 3</subfield>
+    <subfield code="f">P. Cornu, réal.</subfield>
+    <subfield code="g">C. Cardinal, V. Delhomme, cons. scient.</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Mâcon</subfield>
+    <subfield code="c">Université de Bourgogne, IUFM de Bourgogne, Site de Mâcon [prod., éd.] </subfield>
+    <subfield code="d">2011</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">1 disque optique numérique (DVD-ROM) (13 min.)</subfield>
+    <subfield code="c">coul., son</subfield>
+    <subfield code="d">12 cm</subfield>
+  </datafield>
+  <datafield tag="304" ind1=" " ind2=" ">
+    <subfield code="a">Informations prélevées sur le conteneur</subfield>
+  </datafield>
+  <datafield tag="330" ind1=" " ind2=" ">
+    <subfield code="a">Le dos du conteneur indique : &quot;Dans une classe à double niveau (CM1/CM2), une séance d&apos;histoire comparative sur les rois et leurs pouvoirs permettant de travailler la notion de pouvoir : comment évoluent les pouvoirs des rois entre le Moyen Âge  et les Temps modernes ? Les élèves de CM1 travaillent sur un dossier documentaire concernant Hugues Capet alors que le dossier des élèves de CM2 porte sur Louis XIV. Ce film permet de voir les différentes étapes constitutives d&apos;une séance en histoire : la phase initiale qui conduit à la problématisation, le travail de groupes, la mise en commun sous forme d&apos;un tableau comparatif et la synthèse finale en réponse à la problématique&quot;</subfield>
+  </datafield>
+  <datafield tag="600" ind1=" " ind2="1">
+    <subfield code="3">02871640X</subfield>
+    <subfield code="a">Hugues</subfield>
+    <subfield code="d">I</subfield>
+    <subfield code="f">0941?-0996</subfield>
+    <subfield code="c">roi de France</subfield>
+    <subfield code="2">rameau</subfield>
+  </datafield>
+  <datafield tag="600" ind1=" " ind2="1">
+    <subfield code="3">027328848</subfield>
+    <subfield code="a">Louis</subfield>
+    <subfield code="d">XIV</subfield>
+    <subfield code="f">1638-1715</subfield>
+    <subfield code="c">roi de France</subfield>
+    <subfield code="2">rameau</subfield>
+  </datafield>
+  <datafield tag="606" ind1=" " ind2=" ">
+    <subfield code="3">02726470X</subfield>
+    <subfield code="a">Histoire</subfield>
+    <subfield code="3">027790649</subfield>
+    <subfield code="x">Étude et enseignement (primaire)</subfield>
+    <subfield code="3">027790347</subfield>
+    <subfield code="z">Moyen âge</subfield>
+    <subfield code="2">rameau</subfield>
+  </datafield>
+  <datafield tag="606" ind1=" " ind2=" ">
+    <subfield code="3">02726470X</subfield>
+    <subfield code="a">Histoire</subfield>
+    <subfield code="3">027790649</subfield>
+    <subfield code="x">Étude et enseignement (primaire)</subfield>
+    <subfield code="3">027805417</subfield>
+    <subfield code="z">1500-1800</subfield>
+    <subfield code="2">rameau</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="3">157762017</subfield>
+    <subfield code="a">Cornu</subfield>
+    <subfield code="b">Pierre</subfield>
+    <subfield code="f">1956-....</subfield>
+    <subfield code="4">300</subfield>
+  </datafield>
+  <datafield tag="701" ind1=" " ind2="1">
+    <subfield code="3">157763587</subfield>
+    <subfield code="a">Delhomme</subfield>
+    <subfield code="b">Valérie</subfield>
+    <subfield code="f">1967-....</subfield>
+    <subfield code="4">245</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="3">157763978</subfield>
+    <subfield code="a">Cardinal</subfield>
+    <subfield code="b">Catherine</subfield>
+    <subfield code="4">205</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Abes</subfield>
+    <subfield code="c">20190201</subfield>
+    <subfield code="g">AFNOR</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">890242202:441739407</subfield>
+    <subfield code="b">890242202</subfield>
+    <subfield code="a">93:37 COR</subfield>
+    <subfield code="j">g</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">890242202:441739407</subfield>
+    <subfield code="a">20120118</subfield>
+    <subfield code="b">x</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">890242202:441739407</subfield>
+    <subfield code="a">20120118</subfield>
+    <subfield code="b">11:24:40.000</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">212312246:448372150</subfield>
+    <subfield code="b">212312246</subfield>
+    <subfield code="a">907 CAR</subfield>
+    <subfield code="j">g</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">212312246:448372150</subfield>
+    <subfield code="a">20120405</subfield>
+    <subfield code="b">x</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">212312246:448372150</subfield>
+    <subfield code="a">20120405</subfield>
+    <subfield code="b">13:36:00.000</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">712702201:483023353</subfield>
+    <subfield code="b">712702201</subfield>
+    <subfield code="a">903 COR</subfield>
+    <subfield code="j">g</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">712702201:483023353</subfield>
+    <subfield code="a">20130618</subfield>
+    <subfield code="b">x</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">712702201:483023353</subfield>
+    <subfield code="a">20130618</subfield>
+    <subfield code="b">17:36:32.000</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">581942201:649056450</subfield>
+    <subfield code="b">581942201</subfield>
+    <subfield code="a">372.48 COR</subfield>
+    <subfield code="j">g</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">581942201:649056450</subfield>
+    <subfield code="a">20191107</subfield>
+    <subfield code="b">x</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">581942201:649056450</subfield>
+    <subfield code="a">20191107</subfield>
+    <subfield code="b">11:09:14.000</subfield>
+  </datafield>
+  <datafield tag="991" ind1=" " ind2=" ">
+    <subfield code="5">581942201:649056450</subfield>
+    <subfield code="a">exemplaire créé automatiquement par l&apos;ABES</subfield>
+  </datafield>
+</record>

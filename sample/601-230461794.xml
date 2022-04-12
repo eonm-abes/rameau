@@ -1,0 +1,156 @@
+<record>
+  <leader>     cam0 22        450 </leader>
+  <controlfield tag="001">230461794</controlfield>
+  <controlfield tag="002">73</controlfield>
+  <controlfield tag="003">http://www.sudoc.fr/230461794</controlfield>
+  <controlfield tag="004">20180928</controlfield>
+  <controlfield tag="005">20200529111550.000</controlfield>
+  <controlfield tag="006">751062111</controlfield>
+  <controlfield tag="007">341720001</controlfield>
+  <controlfield tag="008">Aax</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1056702537</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20180928d1984    |||||frey50      ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">fre</subfield>
+  </datafield>
+  <datafield tag="105" ind1=" " ind2=" ">
+    <subfield code="a">y   |||||||||</subfield>
+  </datafield>
+  <datafield tag="181" ind1=" " ind2=" ">
+    <subfield code="6">z01</subfield>
+    <subfield code="c">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="181" ind1=" " ind2="1">
+    <subfield code="6">z01</subfield>
+    <subfield code="a">i#</subfield>
+    <subfield code="b">xxxe##</subfield>
+  </datafield>
+  <datafield tag="182" ind1=" " ind2=" ">
+    <subfield code="6">z01</subfield>
+    <subfield code="c">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="182" ind1=" " ind2="1">
+    <subfield code="6">z01</subfield>
+    <subfield code="a">n</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">&quot;L&apos;Action Française&quot; face à l&apos;Allemagne</subfield>
+    <subfield code="e">juin 1940-décembre 1942</subfield>
+    <subfield code="f">Valérie Vogt</subfield>
+    <subfield code="g">sous la direction de Jacques Bariety</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Paris</subfield>
+    <subfield code="c">[s.n.]</subfield>
+    <subfield code="d">1984</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">1 vol. (236 f.)</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">30 cm</subfield>
+  </datafield>
+  <datafield tag="317" ind1=" " ind2=" ">
+    <subfield code="5">751062111:619774266</subfield>
+    <subfield code="a">Ce document fait partie du don Pierre Albert</subfield>
+  </datafield>
+  <datafield tag="320" ind1=" " ind2=" ">
+    <subfield code="a">Bibliogr.</subfield>
+  </datafield>
+  <datafield tag="328" ind1=" " ind2=" ">
+    <subfield code="b">Mémoire de maîtrise</subfield>
+    <subfield code="c">Sciences de l&apos;information</subfield>
+    <subfield code="e">Paris 4</subfield>
+    <subfield code="d">1984</subfield>
+  </datafield>
+  <datafield tag="601" ind1="0" ind2="2">
+    <subfield code="a">Action française</subfield>
+    <subfield code="g">AF</subfield>
+    <subfield code="g">Action française (Paris)</subfield>
+    <subfield code="y">France</subfield>
+    <subfield code="z">1899-1944?</subfield>
+    <subfield code="2">rameau</subfield>
+  </datafield>
+  <datafield tag="601" ind1="0" ind2="2">
+    <subfield code="a">L&apos;Action française (Périodique)</subfield>
+    <subfield code="g">Action française (L ; Paris)</subfield>
+    <subfield code="y">France</subfield>
+    <subfield code="z">1899</subfield>
+    <subfield code="2">rameau</subfield>
+  </datafield>
+  <datafield tag="606" ind1=" " ind2=" ">
+    <subfield code="3">027241211</subfield>
+    <subfield code="a">Presse</subfield>
+    <subfield code="3">027227448</subfield>
+    <subfield code="y">France</subfield>
+    <subfield code="x">Histoire</subfield>
+    <subfield code="2">rameau</subfield>
+  </datafield>
+  <datafield tag="606" ind1=" " ind2=" ">
+    <subfield code="3">027303365</subfield>
+    <subfield code="a">Nationalisme</subfield>
+    <subfield code="3">027226794</subfield>
+    <subfield code="y">France</subfield>
+    <subfield code="3">02724640X</subfield>
+    <subfield code="x">Périodiques</subfield>
+    <subfield code="2">rameau</subfield>
+  </datafield>
+  <datafield tag="606" ind1=" " ind2=" ">
+    <subfield code="3">028560698</subfield>
+    <subfield code="a">Presse et propagande</subfield>
+    <subfield code="3">027226794</subfield>
+    <subfield code="y">France</subfield>
+    <subfield code="2">rameau</subfield>
+  </datafield>
+  <datafield tag="608" ind1=" " ind2=" ">
+    <subfield code="3">027253139</subfield>
+    <subfield code="a">Thèses et écrits académiques</subfield>
+    <subfield code="2">rameau</subfield>
+  </datafield>
+  <datafield tag="676" ind1=" " ind2=" ">
+    <subfield code="a">074.9</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Vogt</subfield>
+    <subfield code="b">Valérie</subfield>
+    <subfield code="4">070</subfield>
+  </datafield>
+  <datafield tag="701" ind1=" " ind2="1">
+    <subfield code="a">Bariety</subfield>
+    <subfield code="b">Jacques</subfield>
+    <subfield code="4">727</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Abes</subfield>
+    <subfield code="c">20200529</subfield>
+    <subfield code="g">AFNOR</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2=" ">
+    <subfield code="a">Réforme Rameau Genre-Forme retro thèses (ne pas supprimer)</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2=" ">
+    <subfield code="a">Réforme Rameau Genre-Forme retro périos (ne pas supprimer)</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">751062111:619774266</subfield>
+    <subfield code="b">751062111</subfield>
+    <subfield code="a">DPA 84 VOG A </subfield>
+    <subfield code="j">g</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">751062111:619774266</subfield>
+    <subfield code="a">20180928</subfield>
+    <subfield code="b">x</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">751062111:619774266</subfield>
+    <subfield code="a">20180928</subfield>
+    <subfield code="b">10:54:03.000</subfield>
+  </datafield>
+</record>  

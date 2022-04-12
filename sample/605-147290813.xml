@@ -1,0 +1,228 @@
+<record>
+  <leader>     cam0 22        450 </leader>
+  <controlfield tag="001">147290813</controlfield>
+  <controlfield tag="002">63,174</controlfield>
+  <controlfield tag="003">http://www.sudoc.fr/147290813</controlfield>
+  <controlfield tag="004">20101015</controlfield>
+  <controlfield tag="005">20190414123252.000</controlfield>
+  <controlfield tag="006">751065402</controlfield>
+  <controlfield tag="007">1999</controlfield>
+  <controlfield tag="008">Aax3</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">978-90-429-2211-2</subfield>
+    <subfield code="b">rel.</subfield>
+  </datafield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">90-429-2211-7</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)693823487</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20101015d2010    k  y0frey50      ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1="0" ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">BE</subfield>
+  </datafield>
+  <datafield tag="105" ind1=" " ind2=" ">
+    <subfield code="a">y   va  000yy</subfield>
+  </datafield>
+  <datafield tag="106" ind1=" " ind2=" ">
+    <subfield code="a">r</subfield>
+  </datafield>
+  <datafield tag="181" ind1=" " ind2=" ">
+    <subfield code="6">z01</subfield>
+    <subfield code="c">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="181" ind1=" " ind2="1">
+    <subfield code="6">z01</subfield>
+    <subfield code="a">i#</subfield>
+    <subfield code="b">xxxe##</subfield>
+  </datafield>
+  <datafield tag="182" ind1=" " ind2=" ">
+    <subfield code="6">z01</subfield>
+    <subfield code="c">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="182" ind1=" " ind2="1">
+    <subfield code="6">z01</subfield>
+    <subfield code="a">n</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Studies in the syntax of Targum Jonathan to Samuel</subfield>
+    <subfield code="f">by Renaud J. Kuty</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Leuven</subfield>
+    <subfield code="a">Paris</subfield>
+    <subfield code="a">Walpole, MA</subfield>
+    <subfield code="c">Peeters</subfield>
+    <subfield code="d">2010</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">1 vol. (XIV-285 p.)</subfield>
+    <subfield code="d">31 cm</subfield>
+  </datafield>
+  <datafield tag="225" ind1="0" ind2=" ">
+    <subfield code="a">Ancient Near Eastern studies</subfield>
+    <subfield code="i">Supplement</subfield>
+    <subfield code="v">30</subfield>
+  </datafield>
+  <datafield tag="320" ind1=" " ind2=" ">
+    <subfield code="a">Bibliogr. p. [255]-275. Notes bibliogr. Index</subfield>
+  </datafield>
+  <datafield tag="328" ind1=" " ind2="0">
+    <subfield code="z">Texte remanié de</subfield>
+    <subfield code="b">Thèse de doctorat</subfield>
+    <subfield code="c">?</subfield>
+    <subfield code="e">Leiden University</subfield>
+    <subfield code="d">2008</subfield>
+  </datafield>
+  <datafield tag="410" ind1=" " ind2="|">
+    <subfield code="0">055665918</subfield>
+    <subfield code="t">Ancient near eastern studies. Supplement</subfield>
+    <subfield code="x">1378-465X</subfield>
+    <subfield code="v">30</subfield>
+  </datafield>
+  <datafield tag="605" ind1=" " ind2=" ">
+    <subfield code="a">Bible</subfield>
+    <subfield code="i">O.T</subfield>
+    <subfield code="m">Aramaic</subfield>
+    <subfield code="q">Targum Jonathan</subfield>
+    <subfield code="x">Syntax</subfield>
+    <subfield code="2">lc</subfield>
+  </datafield>
+  <datafield tag="605" ind1=" " ind2=" ">
+    <subfield code="a">Bible</subfield>
+    <subfield code="i">O.T</subfield>
+    <subfield code="m">Aramaic</subfield>
+    <subfield code="q">Onḳelos</subfield>
+    <subfield code="x">Syntax</subfield>
+    <subfield code="2">lc</subfield>
+  </datafield>
+  <datafield tag="605" ind1=" " ind2=" ">
+    <subfield code="3">027600610</subfield>
+    <subfield code="a">Bible</subfield>
+    <subfield code="i">A.T.</subfield>
+    <subfield code="i">Prophètes</subfield>
+    <subfield code="x">Versions araméennes</subfield>
+    <subfield code="x">Targum de Jonathan</subfield>
+    <subfield code="3">028630653</subfield>
+    <subfield code="x">Syntaxe</subfield>
+    <subfield code="2">rameau</subfield>
+  </datafield>
+  <datafield tag="605" ind1=" " ind2=" ">
+    <subfield code="3">027660648</subfield>
+    <subfield code="a">Bible</subfield>
+    <subfield code="i">A.T.</subfield>
+    <subfield code="i">Pentateuque</subfield>
+    <subfield code="x">Versions araméennes</subfield>
+    <subfield code="x">Targum Onqelos</subfield>
+    <subfield code="3">028630653</subfield>
+    <subfield code="x">Syntaxe</subfield>
+    <subfield code="2">rameau</subfield>
+  </datafield>
+  <datafield tag="606" ind1=" " ind2=" ">
+    <subfield code="a">Aramaic language</subfield>
+    <subfield code="x">Syntax</subfield>
+    <subfield code="2">lc</subfield>
+  </datafield>
+  <datafield tag="606" ind1=" " ind2=" ">
+    <subfield code="a">Aramaic language</subfield>
+    <subfield code="x">Grammar, Comparative</subfield>
+    <subfield code="2">lc</subfield>
+  </datafield>
+  <datafield tag="606" ind1=" " ind2=" ">
+    <subfield code="3">027403475</subfield>
+    <subfield code="a">Araméen (langue)</subfield>
+    <subfield code="3">028630653</subfield>
+    <subfield code="x">Syntaxe</subfield>
+    <subfield code="2">rameau</subfield>
+  </datafield>
+  <datafield tag="606" ind1=" " ind2=" ">
+    <subfield code="3">027403475</subfield>
+    <subfield code="a">Araméen (langue)</subfield>
+    <subfield code="3">02863165X</subfield>
+    <subfield code="x">Grammaire</subfield>
+    <subfield code="2">rameau</subfield>
+  </datafield>
+  <datafield tag="680" ind1=" " ind2=" ">
+    <subfield code="a">BS1324.A75</subfield>
+  </datafield>
+  <datafield tag="680" ind1=" " ind2=" ">
+    <subfield code="a">PJ3001</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="3">147292719</subfield>
+    <subfield code="a">Kuty</subfield>
+    <subfield code="b">Renaud J.</subfield>
+    <subfield code="4">070</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Abes</subfield>
+    <subfield code="c">20190414</subfield>
+    <subfield code="g">AFNOR</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="0">
+    <subfield code="b">OHX</subfield>
+    <subfield code="g">AACR2</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="2">
+    <subfield code="b">COO</subfield>
+    <subfield code="g">AACR2</subfield>
+  </datafield>
+  <datafield tag="915" ind1=" " ind2=" ">
+    <subfield code="5">674822202:638552451</subfield>
+    <subfield code="b">0750189590</subfield>
+  </datafield>
+  <datafield tag="917" ind1=" " ind2=" ">
+    <subfield code="5">674822202:638552451</subfield>
+    <subfield code="a">xxbx</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">674822202:638552451</subfield>
+    <subfield code="b">674822202</subfield>
+    <subfield code="c">MAG</subfield>
+    <subfield code="a">2000/231/30</subfield>
+    <subfield code="j">s</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">674822202:638552451</subfield>
+    <subfield code="a">20190527</subfield>
+    <subfield code="b">x</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">674822202:638552451</subfield>
+    <subfield code="a">20190527</subfield>
+    <subfield code="b">15:47:33.000</subfield>
+  </datafield>
+  <datafield tag="991" ind1=" " ind2=" ">
+    <subfield code="5">674822202:638552451</subfield>
+    <subfield code="a">Catalogage rétrospectif-2019-LOC-Bibliothèque des Facultés de  Théologie</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="5">674822202:638552451</subfield>
+    <subfield code="c">j</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">751065402:407205314</subfield>
+    <subfield code="b">751065402</subfield>
+    <subfield code="a">5280 KUT</subfield>
+    <subfield code="j">g</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">751065402:407205314</subfield>
+    <subfield code="a">20101015</subfield>
+    <subfield code="b">x</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">751065402:407205314</subfield>
+    <subfield code="a">20101015</subfield>
+    <subfield code="b">15:06:45.000</subfield>
+  </datafield>
+</record>

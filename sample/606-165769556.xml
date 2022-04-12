@@ -1,0 +1,351 @@
+<record>
+  <leader>     cam0 22        450 </leader>
+  <controlfield tag="001">165769556</controlfield>
+  <controlfield tag="002">35,39,45,56,75,86,88,90,424</controlfield>
+  <controlfield tag="003">http://www.sudoc.fr/165769556</controlfield>
+  <controlfield tag="004">20121127</controlfield>
+  <controlfield tag="005">20170221112724.000</controlfield>
+  <controlfield tag="006">751065210</controlfield>
+  <controlfield tag="007">751052105</controlfield>
+  <controlfield tag="008">Aax3</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">978-1-409-43243-2</subfield>
+    <subfield code="b">rel.</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">US</subfield>
+    <subfield code="b">2011050165</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)835034452</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="1">75</subfield>
+    <subfield code="a">ALP1777286</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="1">424</subfield>
+    <subfield code="a">DOC053943</subfield>
+  </datafield>
+  <datafield tag="073" ind1=" " ind2="1">
+    <subfield code="a">9781409432432</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20121127h20122012k  y0frey50      ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1="0" ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">GB</subfield>
+    <subfield code="a">US</subfield>
+  </datafield>
+  <datafield tag="105" ind1=" " ind2=" ">
+    <subfield code="a">a   a   001yy</subfield>
+  </datafield>
+  <datafield tag="106" ind1=" " ind2=" ">
+    <subfield code="a">r</subfield>
+  </datafield>
+  <datafield tag="181" ind1=" " ind2=" ">
+    <subfield code="6">z01</subfield>
+    <subfield code="c">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="181" ind1=" " ind2="1">
+    <subfield code="6">z01</subfield>
+    <subfield code="a">i#</subfield>
+    <subfield code="b">xxxe##</subfield>
+  </datafield>
+  <datafield tag="182" ind1=" " ind2=" ">
+    <subfield code="6">z01</subfield>
+    <subfield code="c">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="182" ind1=" " ind2="1">
+    <subfield code="6">z01</subfield>
+    <subfield code="a">n</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Reading the reverse façade of Reims Cathedral</subfield>
+    <subfield code="e">royalty and ritual in thirteenth-Century France</subfield>
+    <subfield code="f">Donna L. Sadler</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Farnham</subfield>
+    <subfield code="a">Burlington</subfield>
+    <subfield code="c">Ashgate</subfield>
+    <subfield code="d">cop. 2012</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">1 vol. (XVI-278 p.-IV p. de pl.)</subfield>
+    <subfield code="c">ill. en noir et en coul., photogr.</subfield>
+    <subfield code="d">26 cm</subfield>
+  </datafield>
+  <datafield tag="319" ind1=" " ind2=" ">
+    <subfield code="5">751052105:573038201</subfield>
+    <subfield code="a">Cote et disponibilité : http://catalogue.bibliotheque.sorbonne.fr</subfield>
+  </datafield>
+  <datafield tag="320" ind1=" " ind2=" ">
+    <subfield code="a">Bibliogr. p. [245]-267. Notes bibliogr. en fin de chapitres. Index</subfield>
+  </datafield>
+  <datafield tag="359" ind1="2" ind2=" ">
+    <subfield code="b">Reading Reims Cathedral through the palimpsest of its past</subfield>
+    <subfield code="b">The reverse façade as complement to iconographic program</subfield>
+    <subfield code="b">Mirror of princes in stone</subfield>
+    <subfield code="b">Marriage of form and content</subfield>
+    <subfield code="b">The royal context of Reims Cathedral&apos;s reverse façade</subfield>
+  </datafield>
+  <datafield tag="606" ind1=" " ind2=" ">
+    <subfield code="3">027342735</subfield>
+    <subfield code="a">Sculpture gothique</subfield>
+    <subfield code="3">026378329</subfield>
+    <subfield code="a">France</subfield>
+    <subfield code="3">027356310</subfield>
+    <subfield code="y">Reims (Marne)</subfield>
+    <subfield code="3">027807169</subfield>
+    <subfield code="z">13e siècle</subfield>
+    <subfield code="2">rameau</subfield>
+  </datafield>
+  <datafield tag="606" ind1=" " ind2=" ">
+    <subfield code="3">027402800</subfield>
+    <subfield code="a">Sculpture de portraits</subfield>
+    <subfield code="3">026378329</subfield>
+    <subfield code="a">France</subfield>
+    <subfield code="3">027356310</subfield>
+    <subfield code="y">Reims (Marne)</subfield>
+    <subfield code="3">027807169</subfield>
+    <subfield code="z">13e siècle</subfield>
+    <subfield code="2">rameau</subfield>
+  </datafield>
+  <datafield tag="606" ind1=" " ind2=" ">
+    <subfield code="3">027309959</subfield>
+    <subfield code="a">Façades</subfield>
+    <subfield code="3">026378329</subfield>
+    <subfield code="a">France</subfield>
+    <subfield code="3">027356310</subfield>
+    <subfield code="y">Reims (Marne)</subfield>
+    <subfield code="3">027807169</subfield>
+    <subfield code="z">13e siècle</subfield>
+    <subfield code="2">rameau</subfield>
+  </datafield>
+  <datafield tag="606" ind1=" " ind2=" ">
+    <subfield code="a">Christian art and symbolism</subfield>
+    <subfield code="y">France</subfield>
+    <subfield code="y">Reims</subfield>
+    <subfield code="z">Medieval, 500-1500</subfield>
+    <subfield code="2">lc</subfield>
+  </datafield>
+  <datafield tag="606" ind1=" " ind2=" ">
+    <subfield code="a">Symbolism in art</subfield>
+    <subfield code="y">France</subfield>
+    <subfield code="y">Reims</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="z">To 1500</subfield>
+    <subfield code="2">lc</subfield>
+  </datafield>
+  <datafield tag="607" ind1=" " ind2=" ">
+    <subfield code="3">027291375</subfield>
+    <subfield code="a">Reims (Marne)</subfield>
+    <subfield code="x">Cathédrale Notre-Dame</subfield>
+    <subfield code="2">rameau</subfield>
+  </datafield>
+  <datafield tag="680" ind1=" " ind2=" ">
+    <subfield code="a">NB551.R4</subfield>
+    <subfield code="b">S28 2012</subfield>
+  </datafield>
+  <datafield tag="686" ind1=" " ind2=" ">
+    <subfield code="1">88</subfield>
+    <subfield code="a">726</subfield>
+    <subfield code="2">DEWBSG</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="3">165484756</subfield>
+    <subfield code="a">Sadler</subfield>
+    <subfield code="b">Donna L.</subfield>
+    <subfield code="4">070</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Abes</subfield>
+    <subfield code="c">20170221</subfield>
+    <subfield code="g">AFNOR</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="0">
+    <subfield code="b">DLC</subfield>
+    <subfield code="g">AACR2</subfield>
+  </datafield>
+  <datafield tag="915" ind1=" " ind2=" ">
+    <subfield code="5">590092218:505042479</subfield>
+    <subfield code="a">CHRN-C 29645</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">590092218:505042479</subfield>
+    <subfield code="b">590092218</subfield>
+    <subfield code="a">FREG 546</subfield>
+    <subfield code="j">g</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">590092218:505042479</subfield>
+    <subfield code="a">20140429</subfield>
+    <subfield code="b">x</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">590092218:505042479</subfield>
+    <subfield code="a">20140429</subfield>
+    <subfield code="b">09:56:23.000</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">693872103:477064027</subfield>
+    <subfield code="b">693872103</subfield>
+    <subfield code="j">u</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">693872103:477064027</subfield>
+    <subfield code="a">20130409</subfield>
+    <subfield code="b">x</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">693872103:477064027</subfield>
+    <subfield code="a">20130409</subfield>
+    <subfield code="b">17:00:22.000</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">341722103:485653702</subfield>
+    <subfield code="b">341722103</subfield>
+    <subfield code="a">W 23238</subfield>
+    <subfield code="j">u</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">341722103:485653702</subfield>
+    <subfield code="a">20130719</subfield>
+    <subfield code="b">x</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">341722103:485653702</subfield>
+    <subfield code="a">20130719</subfield>
+    <subfield code="b">13:45:11.000</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">861942212:508647347</subfield>
+    <subfield code="b">861942212</subfield>
+    <subfield code="j">u</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">861942212:508647347</subfield>
+    <subfield code="a">20140626</subfield>
+    <subfield code="b">x</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">861942212:508647347</subfield>
+    <subfield code="a">20140626</subfield>
+    <subfield code="b">14:13:27.000</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">751065210:468343067</subfield>
+    <subfield code="b">751065210</subfield>
+    <subfield code="a">8 JE 251</subfield>
+    <subfield code="j">u</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">751065210:468343067</subfield>
+    <subfield code="a">20121127</subfield>
+    <subfield code="b">x</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">751065210:468343067</subfield>
+    <subfield code="a">20191108</subfield>
+    <subfield code="b">11:35:41.000</subfield>
+  </datafield>
+  <datafield tag="915" ind1=" " ind2=" ">
+    <subfield code="5">751052105:573038201</subfield>
+    <subfield code="a">a/880840</subfield>
+    <subfield code="b">1157680564</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">751052105:573038201</subfield>
+    <subfield code="b">751052105</subfield>
+    <subfield code="j">u</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">751052105:573038201</subfield>
+    <subfield code="a">20170221</subfield>
+    <subfield code="b">x</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">751052105:573038201</subfield>
+    <subfield code="a">20170221</subfield>
+    <subfield code="b">11:23:35.000</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="5">751052105:573038201</subfield>
+    <subfield code="a">mbe</subfield>
+  </datafield>
+  <datafield tag="915" ind1=" " ind2=" ">
+    <subfield code="5">751052116:513013180</subfield>
+    <subfield code="b">109011134183</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">751052116:513013180</subfield>
+    <subfield code="b">751052116</subfield>
+    <subfield code="a">8 ZZ SUP 6006</subfield>
+    <subfield code="j">s</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">751052116:513013180</subfield>
+    <subfield code="a">20140918</subfield>
+    <subfield code="b">x</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">751052116:513013180</subfield>
+    <subfield code="a">20140918</subfield>
+    <subfield code="b">16:17:44.000</subfield>
+  </datafield>
+  <datafield tag="915" ind1=" " ind2=" ">
+    <subfield code="5">751025206:478571178</subfield>
+    <subfield code="a">2013/03999</subfield>
+  </datafield>
+  <datafield tag="917" ind1=" " ind2=" ">
+    <subfield code="5">751025206:478571178</subfield>
+    <subfield code="a">uubu</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">751025206:478571178</subfield>
+    <subfield code="b">751025206</subfield>
+    <subfield code="a">DC801.R360 SADL 2012</subfield>
+    <subfield code="j">g</subfield>
+  </datafield>
+  <datafield tag="931" ind1=" " ind2=" ">
+    <subfield code="5">751025206:478571178</subfield>
+    <subfield code="b">751025206</subfield>
+    <subfield code="a">8 MON 36523</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">751025206:478571178</subfield>
+    <subfield code="a">20130429</subfield>
+    <subfield code="b">x</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">751025206:478571178</subfield>
+    <subfield code="a">20161210</subfield>
+    <subfield code="b">11:00:13.000</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="5">751012301:59292033X</subfield>
+    <subfield code="b">751012301</subfield>
+    <subfield code="j">s</subfield>
+  </datafield>
+  <datafield tag="940" ind1=" " ind2=" ">
+    <subfield code="5">751012301:59292033X</subfield>
+    <subfield code="a">20171024</subfield>
+    <subfield code="b">x</subfield>
+  </datafield>
+  <datafield tag="941" ind1=" " ind2=" ">
+    <subfield code="5">751012301:59292033X</subfield>
+    <subfield code="a">20171024</subfield>
+    <subfield code="b">16:34:12.000</subfield>
+  </datafield>
+  <datafield tag="991" ind1=" " ind2=" ">
+    <subfield code="5">751012301:59292033X</subfield>
+    <subfield code="a">exemplaire créé automatiquement par l&apos;ABES</subfield>
+  </datafield>
+</record>
