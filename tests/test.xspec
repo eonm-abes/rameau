@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:description xmlns:x="http://www.jenitennison.com/xslt/xspec" stylesheet="../xslt/xslt.xsl">
+    <x:scenario label="">
+        <x:context></x:context>
+
+        <x:call template=""></x:call>
+
+        <x:expect label=""></x:expect>
+    </x:scenario>
+</x:description>
