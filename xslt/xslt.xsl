@@ -1,15 +1,4 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
-    <xsl:template match="/record">
-        <xsl:call-template name="R600" />
-        <xsl:call-template name="R601" />
-        <xsl:call-template name="R602" />
-        <xsl:call-template name="R604" />
-        <xsl:call-template name="R605" />
-        <xsl:call-template name="R606" />
-        <xsl:call-template name="R607" />
-        <xsl:call-template name="R608" />
-    </xsl:template>
-
     <xsl:template name="R600">
         <xsl:for-each select="//datafield[@tag = '600']">
             <!-- $a, $b $d $D ($f ; $c) - $x - $y -$z -->
