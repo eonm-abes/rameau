@@ -7,7 +7,7 @@ install-xspec: install-saxon
 	./scripts/install-xspec.sh
 
 # Lance les tests unitaires xspec
-test: tests/*.xspec xslt/*.xsl
+tests: tests/*.xspec xslt/*.xsl
 	./scripts/tests.sh
 
 # Transforme avec saxon les fichier du dossier sample

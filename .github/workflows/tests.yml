@@ -20,4 +20,4 @@ jobs:
       - name: Run tests
         run: |
           export SAXON_CP=/tmp/saxon/saxon9he.jar
-          make test
+          make tests
