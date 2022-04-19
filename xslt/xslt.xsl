@@ -1,6 +1,8 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
     <xsl:template name="R600">
-        <xsl:for-each select="//datafield[@tag = '600']">
+        <xsl:param name="field"/>
+
+        <xsl:for-each select="$field">
             <!-- $a, $b $d $D ($f ; $c) - $x - $y -$z -->
             <xsl:variable name="group_1">
                 <xsl:call-template name="joinGroupMembers">
@@ -39,7 +41,9 @@
     </xsl:template>
 
     <xsl:template name="R601">
-        <xsl:for-each select="//datafield[@tag = '601']">
+        <xsl:param name="field"/>
+
+        <xsl:for-each select="$field">
             <!-- $a , $g. $b*. ($c* ; $d* ; $e* ; $f) - $x - $y - $z -->
             <xsl:variable name="group_1">
                 <xsl:call-template name="joinGroupMembers">
@@ -81,7 +85,9 @@
     </xsl:template>
 
     <xsl:template name="R602">
-        <xsl:for-each select="//datafield[@tag = '602']">
+        <xsl:param name="field"/>
+
+        <xsl:for-each select="$field">
             <!-- $a ($c ; $d* ; $f) - $x - $y - $z -->
             <xsl:variable name="group_1">
                 <xsl:value-of select="subfield[@code='a']" />
@@ -111,7 +117,9 @@
     </xsl:template>
 
     <xsl:template name="R604">
-        <xsl:for-each select="//datafield[@tag = '604']">
+        <xsl:param name="field"/>
+
+        <xsl:for-each select="$field">
             <!-- $a. $t -$x -$y -$z  -->
             <xsl:variable name="group_1">
                 <xsl:value-of select="subfield[@code='a']" />
@@ -136,7 +144,9 @@
     </xsl:template>
 
     <xsl:template name="R605">
-        <xsl:for-each select="//datafield[@tag = '605']">
+        <xsl:param name="field"/>
+
+        <xsl:for-each select="$field">
             <!-- "$a. $h*. $i* $k?. $l?. $m? ($n* ; ). $q? - $x? - $y? - $z" -->
             <xsl:variable name="group_1">
                 <xsl:call-template name="joinGroupMembers">
@@ -184,19 +194,25 @@
     </xsl:template>
 
     <xsl:template name="R606">
-        <xsl:for-each select="//datafield[@tag = '606']">
+        <xsl:param name="field"/>
+
+        <xsl:for-each select="$field">
             <xsl:call-template name="basic_rameau" />
         </xsl:for-each>
     </xsl:template>
 
     <xsl:template name="R607">
-        <xsl:for-each select="//datafield[@tag = '607']">
+        <xsl:param name="field"/>
+
+        <xsl:for-each select="$field">
             <xsl:call-template name="basic_rameau" />
         </xsl:for-each>
     </xsl:template>
 
     <xsl:template name="R608">
-        <xsl:for-each select="//datafield[@tag = '608']">
+        <xsl:param name="field"/>
+
+        <xsl:for-each select="$field">
             <xsl:call-template name="basic_rameau" />
         </xsl:for-each>
     </xsl:template>

@@ -1,261 +1,246 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <x:description xmlns:x="http://www.jenitennison.com/xslt/xspec" stylesheet="../xslt/xslt.xsl">
     <x:scenario label="600">
-        <x:context>
-            <datafield tag="600" ind1=" " ind2="1">
-                <subfield code="3">027328848</subfield>
-                <subfield code="a">Louis</subfield>
-                <subfield code="d">XIV</subfield>
-                <subfield code="f">1638-1715</subfield>
-                <subfield code="c">roi de France</subfield>
-                <subfield code="2">rameau</subfield>
-            </datafield>
-        </x:context>
-
-        <x:call template="R600" />
+        <x:call template="R600">
+            <x:param name="field">
+                <datafield tag="600" ind1=" " ind2="1">
+                    <subfield code="3">027328848</subfield>a
+                    <subfield code="a">Louis</subfield>
+                    <subfield code="d">XIV</subfield>
+                    <subfield code="f">1638-1715</subfield>
+                    <subfield code="c">roi de France</subfield>
+                    <subfield code="2">rameau</subfield>
+                </datafield>
+            </x:param>
+        </x:call>
 
         <x:expect label="">Louis XIV (1638-1715 ; roi de France)</x:expect>
     </x:scenario>
 
     <x:scenario label="601">
-        <x:context>
-            <datafield tag="601" ind1="0" ind2="1">
-                <subfield code="3">112701116</subfield>
-                <subfield code="a">Bibliothèque de la ville de Paris</subfield>
-                <subfield code="f">1760-1797</subfield>
-                <subfield code="2">rameau</subfield>
-            </datafield>
-        </x:context>
-
-        <x:call template="R601" />
+        <x:call template="R601">
+            <x:param name="field">
+                <datafield tag="601" ind1="0" ind2="1">
+                    <subfield code="3">112701116</subfield>
+                    <subfield code="a">Bibliothèque de la ville de Paris</subfield>
+                    <subfield code="f">1760-1797</subfield>
+                    <subfield code="2">rameau</subfield>
+                </datafield>
+            </x:param>
+        </x:call>
 
         <x:expect label="">Bibliothèque de la ville de Paris (1760-1797)</x:expect>
     </x:scenario>
 
     <x:scenario label="601">
-        <x:context>
-            <datafield tag="601" ind1="0" ind2="1">
-                <subfield code="a">Great Britain</subfield>
-                <subfield code="b">Parliament</subfield>
-                <subfield code="b">House of Commons</subfield>
-                <subfield code="b">Expenditure Committee</subfield>
-                <subfield code="2">lc</subfield>
-            </datafield>
-        </x:context>
-
-        <x:call template="R601" />
+        <x:call template="R601">
+            <x:param name="field">
+                <datafield tag="601" ind1="0" ind2="1">
+                    <subfield code="a">Great Britain</subfield>
+                    <subfield code="b">Parliament</subfield>
+                    <subfield code="b">House of Commons</subfield>
+                    <subfield code="b">Expenditure Committee</subfield>
+                    <subfield code="2">lc</subfield>
+                </datafield>
+            </x:param>
+        </x:call>
 
         <x:expect label="">Great Britain. Parliament. House of Commons. Expenditure Committee</x:expect>
     </x:scenario>
 
     <x:scenario label="601">
-        <x:context>
-            <datafield tag="601" ind1="0" ind2="1">
-                <subfield code="3">112701116</subfield>
-                <subfield code="a">Bibliothèque de la ville de Paris</subfield>
-                <subfield code="f">1760-1797</subfield>
-                <subfield code="2">rameau</subfield>
-            </datafield>
-        </x:context>
-
-        <x:call template="R601" />
-
-        <x:expect label="">Bibliothèque de la ville de Paris (1760-1797)</x:expect>
-    </x:scenario>
-
-    <x:scenario label="601">
-        <x:context>
-            <datafield tag="601" ind1="0" ind2="2">
-                <subfield code="a">L&apos;Action française (Périodique)</subfield>
-                <subfield code="g">Action française (L ; Paris)</subfield>
-                <subfield code="y">France</subfield>
-                <subfield code="z">1899</subfield>
-                <subfield code="2">rameau</subfield>
-            </datafield>
-        </x:context>
-
-        <x:call template="R601" />
+        <x:call template="R601">
+            <x:param name="field">
+                <datafield tag="601" ind1="0" ind2="2">
+                    <subfield code="a">L&apos;Action française (Périodique)</subfield>
+                    <subfield code="g">Action française (L ; Paris)</subfield>
+                    <subfield code="y">France</subfield>
+                    <subfield code="z">1899</subfield>
+                    <subfield code="2">lc</subfield>
+                </datafield>
+            </x:param>
+        </x:call>
 
         <x:expect label="">L'Action française (Périodique), Action française (L ; Paris) -- France -- 1899</x:expect>
     </x:scenario>
 
     <x:scenario label="602">
-        <x:context>
-            <datafield tag="602" ind1=" " ind2=" ">
-                <subfield code="3">029078199</subfield>
-                <subfield code="a">Valois</subfield>
-                <subfield code="c">maison</subfield>
-                <subfield code="2">rameau</subfield>
-            </datafield>
-        </x:context>
-
-        <x:call template="R602" />
+        <x:call template="R602">
+            <x:param name="field">
+                <datafield tag="602" ind1=" " ind2=" ">
+                    <subfield code="3">029078199</subfield>
+                    <subfield code="a">Valois</subfield>
+                    <subfield code="c">maison</subfield>
+                    <subfield code="2">rameau</subfield>
+                </datafield>
+            </x:param>
+        </x:call>
 
         <x:expect label="">Valois (maison)</x:expect>
     </x:scenario>
 
     <x:scenario label="602">
-        <x:context>
-            <datafield tag="602" ind1=" " ind2=" ">
-                <subfield code="3">128198869</subfield>
-                <subfield code="a">Stevenson</subfield>
-                <subfield code="c">famille</subfield>
-                <subfield code="d">Ecosse</subfield>
-                <subfield code="f">1772-....</subfield>
-                <subfield code="2">rameau</subfield>
-            </datafield>
-        </x:context>
-
-        <x:call template="R602" />
+        <x:call template="R602">
+            <x:param name="field">
+                <datafield tag="602" ind1=" " ind2=" ">
+                    <subfield code="3">128198869</subfield>
+                    <subfield code="a">Stevenson</subfield>
+                    <subfield code="c">famille</subfield>
+                    <subfield code="d">Ecosse</subfield>
+                    <subfield code="f">1772-....</subfield>
+                    <subfield code="2">rameau</subfield>
+                </datafield>
+            </x:param>
+        </x:call>
 
         <x:expect label="">Stevenson (famille ; Ecosse ; 1772-....)</x:expect>
     </x:scenario>
 
     <x:scenario label="604">
-        <x:context>
-            <datafield tag="604" ind1=" " ind2=" ">
-                <subfield code="3">027515486</subfield>
-                <subfield code="a">Sophocle (0496?-0406 av. J.-C.)</subfield>
-                <subfield code="t">Oedipe roi</subfield>
-                <subfield code="2">rameau</subfield>
-            </datafield>
-        </x:context>
-
-        <x:call template="R604" />
+        <x:call template="R604">
+            <x:param name="field">
+                <datafield tag="604" ind1=" " ind2=" ">
+                    <subfield code="3">027515486</subfield>
+                    <subfield code="a">Sophocle (0496?-0406 av. J.-C.)</subfield>
+                    <subfield code="t">Oedipe roi</subfield>
+                    <subfield code="2">rameau</subfield>
+                </datafield>
+            </x:param>
+        </x:call>
 
         <x:expect label="">Sophocle (0496?-0406 av. J.-C.). Oedipe roi</x:expect>
     </x:scenario>
 
     <x:scenario label="605">
-        <x:context>
-            <datafield tag="605" ind1=" " ind2=" ">
-                <subfield code="3">059303549</subfield>
-                <subfield code="a">Traité de Nice</subfield>
-                <subfield code="n">2001</subfield>
-                <subfield code="2">rameau</subfield>
-            </datafield>
-        </x:context>
-
-        <x:call template="R605" />
+        <x:call template="R605">
+            <x:param name="field">
+                <datafield tag="605" ind1=" " ind2=" ">
+                    <subfield code="3">059303549</subfield>
+                    <subfield code="a">Traité de Nice</subfield>
+                    <subfield code="n">2001</subfield>
+                    <subfield code="2">rameau</subfield>
+                </datafield>
+            </x:param>
+        </x:call>
 
         <x:expect label="">Traité de Nice (2001)</x:expect>
     </x:scenario>
 
     <x:scenario label="R605">
-        <x:context>
-            <datafield tag="605" ind1=" " ind2=" ">
-                <subfield code="3">027660648</subfield>
-                <subfield code="a">Bible</subfield>
-                <subfield code="i">A.T.</subfield>
-                <subfield code="i">Pentateuque</subfield>
-                <subfield code="x">Versions araméennes</subfield>
-                <subfield code="x">Targum Onqelos</subfield>
-                <subfield code="3">028630653</subfield>
-                <subfield code="x">Syntaxe</subfield>
-                <subfield code="2">rameau</subfield>
-            </datafield>
-        </x:context>
-
-        <x:call template="R605" />
+        <x:call template="R605">
+            <x:param name="field">
+                <datafield tag="605" ind1=" " ind2=" ">
+                    <subfield code="3">027660648</subfield>
+                    <subfield code="a">Bible</subfield>
+                    <subfield code="i">A.T.</subfield>
+                    <subfield code="i">Pentateuque</subfield>
+                    <subfield code="x">Versions araméennes</subfield>
+                    <subfield code="x">Targum Onqelos</subfield>
+                    <subfield code="3">028630653</subfield>
+                    <subfield code="x">Syntaxe</subfield>
+                    <subfield code="2">rameau</subfield>
+                </datafield>
+            </x:param>
+        </x:call>
 
         <x:expect label="">Bible. A.T. Pentateuque -- Versions araméennes -- Targum Onqelos -- Syntaxe</x:expect>
     </x:scenario>
 
     <x:scenario label="606">
-        <x:context>
-            <datafield tag="606" ind1=" " ind2=" ">
-                <subfield code="3">027402800</subfield>
-                <subfield code="a">Sculpture de portraits</subfield>
-                <subfield code="3">026378329</subfield>
-                <subfield code="a">France</subfield>
-                <subfield code="3">027356310</subfield>
-                <subfield code="y">Reims (Marne)</subfield>
-                <subfield code="3">027807169</subfield>
-                <subfield code="z">13e siècle</subfield>
-                <subfield code="2">rameau</subfield>
-            </datafield>
-        </x:context>
-
-        <x:call template="R606" />
+        <x:call template="R606">
+            <x:param name="field">
+                <datafield tag="606" ind1=" " ind2=" ">
+                    <subfield code="3">027402800</subfield>
+                    <subfield code="a">Sculpture de portraits</subfield>
+                    <subfield code="3">026378329</subfield>
+                    <subfield code="a">France</subfield>
+                    <subfield code="3">027356310</subfield>
+                    <subfield code="y">Reims (Marne)</subfield>
+                    <subfield code="3">027807169</subfield>
+                    <subfield code="z">13e siècle</subfield>
+                    <subfield code="2">rameau</subfield>
+                </datafield>
+            </x:param>
+        </x:call>
 
         <x:expect label="">Sculpture de portraits -- France -- Reims (Marne) -- 13e siècle</x:expect>
     </x:scenario>
 
     <x:scenario label="606">
-        <x:context>
-            <datafield tag="606" ind1=" " ind2=" ">
-                <subfield code="3">02726470X</subfield>
-                <subfield code="a">Histoire</subfield>
-                <subfield code="3">027790649</subfield>
-                <subfield code="x">Étude et enseignement (primaire)</subfield>
-                <subfield code="3">027790347</subfield>
-                <subfield code="z">Moyen âge</subfield>
-                <subfield code="2">rameau</subfield>
-            </datafield>
-        </x:context>
-
-        <x:call template="R606" />
-
-        <x:expect label="">Histoire -- Étude et enseignement (primaire) -- Moyen âge</x:expect>
-    </x:scenario>
-
-    <x:scenario label="606">
-        <x:context>
-            <datafield tag="606" ind1=" " ind2=" ">
-                <subfield code="3">02726470X</subfield>
-                <subfield code="a">Histoire</subfield>
-                <subfield code="3">027790649</subfield>
-                <subfield code="x">Étude et enseignement (primaire)</subfield>
-                <subfield code="3">027790347</subfield>
-                <subfield code="z">Moyen âge</subfield>
-                <subfield code="2">rameau</subfield>
-            </datafield>
-        </x:context>
-
-        <x:call template="R606" />
+        <x:call template="R606">
+            <x:param name="field">
+                <datafield tag="606" ind1=" " ind2=" ">
+                    <subfield code="3">02726470X</subfield>
+                    <subfield code="a">Histoire</subfield>
+                    <subfield code="3">027790649</subfield>
+                    <subfield code="x">Étude et enseignement (primaire)</subfield>
+                    <subfield code="3">027790347</subfield>
+                    <subfield code="z">Moyen âge</subfield>
+                    <subfield code="2">rameau</subfield>
+                </datafield>
+            </x:param>
+        </x:call>
 
         <x:expect label="">Histoire -- Étude et enseignement (primaire) -- Moyen âge</x:expect>
     </x:scenario>
 
     <x:scenario label="606">
-        <x:context>
-            <datafield tag="606" ind1=" " ind2=" ">
-                <subfield code="3">027796019</subfield>
-                <subfield code="a">Tragédie grecque</subfield>
-                <subfield code="2">rameau</subfield>
-            </datafield>
-        </x:context>
+        <x:call template="R606">
+            <x:param name="field">
+                <datafield tag="606" ind1=" " ind2=" ">
+                    <subfield code="3">02726470X</subfield>
+                    <subfield code="a">Histoire</subfield>
+                    <subfield code="3">027790649</subfield>
+                    <subfield code="x">Étude et enseignement (primaire)</subfield>
+                    <subfield code="3">027790347</subfield>
+                    <subfield code="z">Moyen âge</subfield>
+                    <subfield code="2">rameau</subfield>
+                </datafield>
+            </x:param>
+        </x:call>
 
-        <x:call template="R606" />
+        <x:expect label="">Histoire -- Étude et enseignement (primaire) -- Moyen âge</x:expect>
+    </x:scenario>
+
+    <x:scenario label="606">
+        <x:call template="R606">
+            <x:param name="field">
+                <datafield tag="606" ind1=" " ind2=" ">
+                    <subfield code="3">027796019</subfield>
+                    <subfield code="a">Tragédie grecque</subfield>
+                    <subfield code="2">rameau</subfield>
+                </datafield>
+            </x:param>
+        </x:call>
 
         <x:expect label="">Tragédie grecque</x:expect>
     </x:scenario>
 
     <x:scenario label="607">
-        <x:context>
-            <datafield tag="607" ind1=" " ind2=" ">
-                <subfield code="3">027291375</subfield>
-                <subfield code="a">Reims (Marne)</subfield>
-                <subfield code="x">Cathédrale Notre-Dame</subfield>
-                <subfield code="2">rameau</subfield>
-            </datafield>
-        </x:context>
-
-        <x:call template="R607" />
+        <x:call template="R607">
+            <x:param name="field">
+                <datafield tag="607" ind1=" " ind2=" ">
+                    <subfield code="3">027291375</subfield>
+                    <subfield code="a">Reims (Marne)</subfield>
+                    <subfield code="x">Cathédrale Notre-Dame</subfield>
+                    <subfield code="2">rameau</subfield>
+                </datafield>
+            </x:param>
+        </x:call>
 
         <x:expect label="">Reims (Marne) -- Cathédrale Notre-Dame</x:expect>
     </x:scenario>
 
     <x:scenario label="608">
-        <x:context>
-            <datafield tag="608" ind1=" " ind2=" ">
-                <subfield code="3">027253139</subfield>
-                <subfield code="a">Thèses et écrits académiques</subfield>
-                <subfield code="2">rameau</subfield>
-              </datafield>
-        </x:context>
-
-        <x:call template="R608" />
+        <x:call template="R608">
+            <x:param name="field">
+                <datafield tag="608" ind1=" " ind2=" ">
+                    <subfield code="3">027253139</subfield>
+                    <subfield code="a">Thèses et écrits académiques</subfield>
+                    <subfield code="2">rameau</subfield>
+                </datafield>
+            </x:param>
+        </x:call>
 
         <x:expect label="">Thèses et écrits académiques</x:expect>
     </x:scenario>
